@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Funmilayo
-- 👀 I’m a data analyst
-- 🌱 I’m currently learning Machine Learning and DA with Python
+- 👀 I’m a data analyst, I currently work as a data analytics facilitator.
+- 🌱 I’m always upskiilling, currently learning and applying the python programming language to projects.
 - 📫 How to reach me 'eluyeraonome@gmail.com'
 - 😄 Pronouns: she/her
